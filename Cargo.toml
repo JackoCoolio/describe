@@ -1,6 +1,10 @@
 [package]
 name = "describe"
 version = "0.1.0"
+authors = ["Jackson Wambolt"]
+description = "A testing toolkit for writing legible, ergonomic unit tests."
+license = "MIT"
+repository = "https://github.com/JackoCoolio/describe"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
